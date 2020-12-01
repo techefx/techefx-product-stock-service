@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: techefx-product-stock-service
+
+server:
+  port: ${port:8800}
+
